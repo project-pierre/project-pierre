@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-pierre/static/css/main.b12c7783.css",
+    "main.js": "/project-pierre/static/js/main.66574930.js",
+    "static/js/787.8e13411c.chunk.js": "/project-pierre/static/js/787.8e13411c.chunk.js",
+    "index.html": "/project-pierre/index.html",
+    "main.b12c7783.css.map": "/project-pierre/static/css/main.b12c7783.css.map",
+    "main.66574930.js.map": "/project-pierre/static/js/main.66574930.js.map",
+    "787.8e13411c.chunk.js.map": "/project-pierre/static/js/787.8e13411c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12c7783.css",
+    "static/js/main.66574930.js"
+  ]
+}
