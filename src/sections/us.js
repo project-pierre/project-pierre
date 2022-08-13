@@ -11,7 +11,7 @@ const Us = () => {
 				"name": "Diego Corrêa da Silva",
 				"location": "Salvador, Bahia, Brazil",
 				"picture": "",
-				"description": "Graduate, Master and D.Sc student in Computer Science focused on Music Recommendation Systems",
+				"description": "Graduate, Master and Ph.D. student in Computer Science focused on Recommender Systems",
 				"contact": [
 
 				]
