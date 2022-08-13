@@ -35,7 +35,7 @@ const Us = () => {
 						<Col xs={12} sm={3} md={3} lg={3}>
 							<img
 								alt=""
-								src="/diego_correa.jpg"
+								src="/project-pierre/diego_correa.jpg"
 								className="box-img rounded float-right img-on-right"
 							/>{' '}
 						</Col>

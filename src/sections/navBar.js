@@ -10,7 +10,7 @@ const NavMenu = () => {
                     <Navbar.Brand href="#home">
                         <img
                             alt=""
-                            src="/logo-branca.svg"
+                            src="/project-pierre/logo-branca.svg"
                             width="30"
                             height="30"
                             className="d-inline-block align-top"

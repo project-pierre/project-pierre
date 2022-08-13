@@ -14,7 +14,7 @@ const Presentation = () => {
                 <Row>
                     <img
                         alt=""
-                        src="/logo-orange.svg"
+                        src="/project-pierre/logo-orange.svg"
                         width="240"
                         height="240"
                     />{' '}
