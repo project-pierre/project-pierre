@@ -5,7 +5,7 @@ const Frame = () => {
 	const [data, setData] = useState({
 		'title': 'Pierre-In-Frame',
 		'text': 'Pierre-In-Frame is a how-to-use the Scikit-Pierre. ' +
-			'It gather other libraries on recommendation systems, as the Scikit-Surprise, to compose the hall of recommender algorithms.' +
+			'It gathers other libraries on recommendation systems, as the Scikit-Surprise, to compose the hall of recommender algorithms.' +
 			'The recommendation list provided by the recommender algorithm is given by entry to the Scikit-Pierre, which creates a final recommendation list.'
 	})
 
